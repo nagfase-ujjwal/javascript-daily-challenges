@@ -8,7 +8,7 @@ This repository not only documents my journey of solving **JavaScript Problems d
 
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)
 ![Daily Practice](https://img.shields.io/badge/Commit-Daily-green)
-![Focus](https://img.shields.io/badge/Big4%20Interview%20Prep-blue)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-Daily-blueviolet)
 
 ---
 
