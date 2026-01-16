@@ -26,7 +26,7 @@ This repository not only documents my journey of solving **JavaScript Problems d
 [x] means completed.
 [ ] means pending.
 
-- [] Day 01 – Generate A to Z alphabets
+- [x] Day 01 – Generate A to Z alphabets
 - [] Day 02 – Reverse a string
 
 ---
