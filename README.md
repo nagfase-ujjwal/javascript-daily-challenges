@@ -1,2 +1,38 @@
-# javascript-daily-challenges
-Daily JavaScript practice problems with solutions and explanations. Documenting my journey to strengthen my fundamentals while preparing for interviews.
+# JavaScript Practice Repository 🚀
+
+👋 Hi, I'm Ujjwal - a React developer with 3 years of experience, currently strengthening my fundamentals to prepare for technical interviews at top firms.
+
+This repository not only documents my journey of solving **JavaScript Problems daily** and exploring **behind-the-scenes concepts** like how the JS engine executes code. Each solution includes both the code and clear explanation of the logic. I also document insights gained from the lectures and resources here.
+
+---
+
+![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)
+![Daily Practice](https://img.shields.io/badge/Commit-Daily-green)
+![Focus](https://img.shields.io/badge/Big4%20Interview%20Prep-blue)
+
+---
+
+## 🎯 Goals
+- Strengthen JavaScript fundamentals - Behind the scenes (via online resources)
+- Build consistency (1 problem per day)
+- Showcase problem solving ability with clear explanations
+- Prepare for technical interview at top firms.
+
+---
+
+## 📅 Progress Tracker
+[x] means completed.
+[ ] means pending.
+- [] Day 01 – Generate A to Z alphabets
+- [] Day 02 – Reverse a string
+
+---
+
+## 📂 Repository Structure
+Each day has its own folder:
+Day01/
+ ├── question.md        # Problem statement
+ ├── solution.js        # Code solution
+ └── explanation.md     # Step-by-step reasoning
+
+ 
