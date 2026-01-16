@@ -13,6 +13,7 @@ This repository not only documents my journey of solving **JavaScript Problems d
 ---
 
 ## 🎯 Goals
+
 - Strengthen JavaScript fundamentals - Behind the scenes (via online resources)
 - Build consistency (1 problem per day)
 - Showcase problem solving ability with clear explanations
@@ -21,18 +22,30 @@ This repository not only documents my journey of solving **JavaScript Problems d
 ---
 
 ## 📅 Progress Tracker
+
 [x] means completed.
 [ ] means pending.
-- [] Day 01 – Generate A to Z alphabets
+
+- [x] Day 01 – Generate A to Z alphabets
 - [] Day 02 – Reverse a string
 
 ---
 
 ## 📂 Repository Structure
+
 Each day has its own folder:
 Day01/
- ├── question.md        # Problem statement
- ├── solution.js        # Code solution
- └── explanation.md     # Step-by-step reasoning
+├── question.md # Problem statement
+├── solution.js # Code solution
+└── explanation.md # Step-by-step reasoning
 
- 
+---
+
+## 🚀 How to Run
+
+Clone the repo and run any solution:
+
+```bash
+node Day01/solution.js
+
+```
