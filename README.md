@@ -27,7 +27,7 @@ This repository not only documents my journey of solving **JavaScript Problems d
 [ ] means pending.
 
 - [x] Day 01 – Generate A to Z alphabets
-- [] Day 02 – Reverse a string
+- [x] Day 02 – Sum of all arguments passed to a function
 
 ---
 
