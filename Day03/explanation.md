@@ -10,7 +10,7 @@ To find the smallest number in an array, we can follow these steps:
 
 ## Output
 
-findSmallestNumber([3, 1, 7, 2]) // Normal case -> 1
-findSmallestNumber([-1, -2, -3]) // All negative -> -3
-findSmallestNumber("not an array") // Invalid input (not an array) -> false
-findSmallestNumber([]) // Empty array -> null
+findSmallestNumber([3, 1, 7, 2]) -> 1
+findSmallestNumber([-1, -2, -3]) -> -3
+findSmallestNumber("not an array") Invalid input (not an array) -> false
+findSmallestNumber([]) Empty array -> null
