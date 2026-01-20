@@ -29,6 +29,7 @@ This repository not only documents my journey of solving **JavaScript Problems d
 - [x] Day 01 – Generate A to Z alphabets
 - [x] Day 02 – Sum of all arguments passed to a function
 - [x] Day 03 – Find smallest number in an array
+- [x] Day 04 – Given an Array, Return the count of Even Numbers and store the even numbersin an array
 
 ---
 
