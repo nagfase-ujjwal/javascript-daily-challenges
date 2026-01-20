@@ -2,7 +2,7 @@
 
 👋 Hi, I'm Ujjwal - a React developer with 3 years of experience, currently strengthening my fundamentals to prepare for technical interviews at top firms.
 
-This repository not only documents my journey of solving **JavaScript Problems daily** and exploring **behind-the-scenes concepts** like how the JS engine executes code. Each solution includes both the code and clear explanation of the logic. I also document insights gained from the lectures and resources here.
+This repository documents my journey of solving **JavaScript Problems daily** and exploring **behind-the-scenes concepts** like how the JS engine executes code. Each solution includes both the code and clear explanation of the logic. I also document insights gained from the lectures and resources here.
 
 ---
 
