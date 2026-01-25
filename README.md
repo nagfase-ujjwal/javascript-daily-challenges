@@ -30,6 +30,7 @@ This repository not only documents my journey of solving **JavaScript Problems d
 - [x] Day 02 – Sum of all arguments passed to a function
 - [x] Day 03 – Find smallest number in an array
 - [x] Day 04 – Given an Array, Return the count of Even Numbers and store the even numbers in an array
+- [] Day 05 - Voting Eligibility based on age
 
 ---
 
