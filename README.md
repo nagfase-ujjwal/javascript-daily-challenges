@@ -2,7 +2,7 @@
 
 👋 Hi, I'm Ujjwal - a React developer with 3 years of experience, currently strengthening my fundamentals to prepare for technical interviews at top firms.
 
-This repository not only documents my journey of solving **JavaScript Problems daily** and exploring **behind-the-scenes concepts** like how the JS engine executes code. Each solution includes both the code and clear explanation of the logic. I also document insights gained from the lectures and resources here.
+This repository not only documents my journey of solving **JavaScript Problems daily** but also exploring **behind-the-scenes concepts** like how the JS engine executes code. Each solution includes both the code and clear explanation of the logic. I also document insights gained from the lectures and resources here.
 
 ---
 
@@ -13,6 +13,7 @@ This repository not only documents my journey of solving **JavaScript Problems d
 ---
 
 ## 🎯 Goals
+
 - Strengthen JavaScript fundamentals - Behind the scenes (via online resources)
 - Build consistency (1 problem per day)
 - Showcase problem solving ability with clear explanations
@@ -21,18 +22,33 @@ This repository not only documents my journey of solving **JavaScript Problems d
 ---
 
 ## 📅 Progress Tracker
+
 [x] means completed.
 [ ] means pending.
-- [] Day 01 – Generate A to Z alphabets
-- [] Day 02 – Reverse a string
+
+- [x] Day 01 – Generate A to Z alphabets
+- [x] Day 02 – Sum of all arguments passed to a function
+- [x] Day 03 – Find smallest number in an array
+- [x] Day 04 – Given an Array, Return the count of Even Numbers and store the even numbers in an array
+- [x] Day 05 - Voting Eligibility based on age
 
 ---
 
 ## 📂 Repository Structure
+
 Each day has its own folder:
 Day01/
- ├── question.md        # Problem statement
- ├── solution.js        # Code solution
- └── explanation.md     # Step-by-step reasoning
+├── question.md # Problem statement
+├── solution.js # Code solution
+└── explanation.md # Step-by-step reasoning
 
- 
+---
+
+## 🚀 How to Run
+
+Clone the repo and run any solution:
+
+```bash
+node Day01/solution.js
+
+```
